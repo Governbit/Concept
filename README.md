@@ -1,5 +1,5 @@
 # Concept
-The concept of Governbit as an organization is to provide the citizens of a government the ability to report on their own beliefs and standings on governmental/political issues. That feedback from all of the users can then be reported on at large scale where it can be useful in decision making for politicians.
+The concept of Governbit as an organization is to provide the citizens of a government the ability to report on their own beliefs and standings on governmental/political issues. That feedback from each user can then be reported on at large scale where it can be useful in decision making for politicians.
 
 Feedback from real-world policy results can be collected and fed back into the system, to allow the system to be aware and report on predictions vs. actuals.
 
