@@ -10,3 +10,5 @@ In order for this to work, an ellaborate system must exist. A part of this syste
 A digital footprint example is: We know this system should have a web portal for users to access and provide their feedback. That web portal costs money for hosting on the internet. Especially considering how many users it may accumulate. So it must be able to scale based on demand. Also, [governbit.com](http://www.governbit.com) and some variants of the name have been purchased and must be maintained.
 
 The digital systems required to build a technology are relatively straight-forward, but they are extensive. One goal of this system is to remain 100% transparent. In addition, this system should be collaborated on by anyone, no matter your profession or political prowess. Everything is being open-sourced here on GitHub.
+
+The ultimate goal would be a type of government reform system, which allows governments to provide transparency and decision-making power to its citizens essentially ending the need for two-party differences.
