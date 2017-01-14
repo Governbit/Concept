@@ -7,6 +7,6 @@ Data is collected and geo-tagged so that the reporting can be done with geograph
 
 In order for this to work, an ellaborate system must exist. A part of this system is a piece that needs to function as a business. This is for managing expenses for things like (but not limited to): business expenses and digital footprint. These will be elaborated on more in this repository.
 
-A digital footprint example is: We know this system should have a web portal for users to access and provide their feedback. That web portal costs money for hosting on the internet. Especially considering how many users it may accumulate. So it must be able to scale based on demand. Also, governbit.com and some variants of the name have been purchased and must be maintained.
+A digital footprint example is: We know this system should have a web portal for users to access and provide their feedback. That web portal costs money for hosting on the internet. Especially considering how many users it may accumulate. So it must be able to scale based on demand. Also, [governbit.com](http://www.governbit.com) and some variants of the name have been purchased and must be maintained.
 
 The digital systems required to build a technology are relatively straight-forward, but they are extensive. One goal of this system is to remain 100% transparent. In addition, this system should be collaborated on by anyone, no matter your profession or political prowess. Everything is being open-sourced here on GitHub.
