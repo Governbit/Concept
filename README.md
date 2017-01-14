@@ -11,4 +11,4 @@ A digital footprint example is: We know this system should have a web portal for
 
 The digital systems required to build a technology are relatively straight-forward, but they are extensive. One goal of this system is to remain 100% transparent. In addition, this system should be collaborated on by anyone, no matter your profession or political prowess. Everything is being open-sourced here on GitHub.
 
-The ultimate goal would be a type of government reform system, which allows governments to provide transparency and decision-making power to its citizens essentially ending the need for massive political-party differences.
+The ultimate goal would be a type of government reform system, which allows governments to provide transparency and decision-making power to its citizens essentially ending the need for massive political-party differences. Hopefully creating governments where the citizens are governing the politicians' powers, instead of the politicians power governing the citizens.
