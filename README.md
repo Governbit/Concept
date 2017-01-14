@@ -3,7 +3,7 @@ The concept of Governbit as an organization is to provide the citizens of a gove
 
 Feedback from real-world policy results can be collected and fed back into the system, to allow the system to be aware and report on predictions vs. actuals.
 
-Data is collected and geo-tagged so that the reporting can be done with geographical aspects considered. Other information about the individual is collected like nationality, sex, and age in order to ensure that these various demographics are treated equally. This data is collected while removing anything that ties the data to the individual. The information the system reports on individuals collectively is an abstraction and should remain in no ways personal.
+Data is collected and geo-tagged so that the reporting can be done with geographical aspects considered. Other information about the individual is collected like nationality, sex, and age in order to ensure that these various demographics are treated equally and fairly. This data is collected while removing anything that ties the data to the individual. The information the system reports on individuals collectively is an abstraction and should remain in no ways personal.
 
 In order for this to work, an ellaborate system must exist. A part of this system is a piece that needs to function as a business. This is for managing expenses for things like (but not limited to): business expenses and digital footprint. These will be elaborated on more in this repository.
 
